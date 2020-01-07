@@ -1,2 +1,4 @@
 # ssgit3
-from master
+from master 
+and
+from testing
